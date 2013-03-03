@@ -1,0 +1,17 @@
+title = "MPO 2 AE Tomlfile"
+projectname = "Testing Toml support"
+[comp]
+# w and h are in pixels
+width = 1920
+height = 1080
+# duration on seconds
+duration = 20
+[comp.layerpresets]
+image = "myafx/image.afx"
+price = "myafx/price.afx" 
+title = "myafx/title.afx"
+text = "myafx/text.afx"
+background = "myafx/background.afx"
+[comp.render]
+#needs some overview
+ommodule = ""
