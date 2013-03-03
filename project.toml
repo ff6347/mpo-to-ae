@@ -23,8 +23,8 @@ ommodule = ""
 
 [images]
 # w and h are in pixels
-width = 1920
-height = 1080
+width = 500
+height = 500
 # duration in seconds
 duration = 20
 frameRate = 25
