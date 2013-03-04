@@ -11,3 +11,4 @@ mpo-2-ae.jsx is a JavaScript for After Effects to import JSON data and create co
 
 You need more info? Contact me via http://fabiantheblind.info or here on github.  
 
+The code is under MIT License but you may NOT redistribute or sell the .json files provided.  
